@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Yurovskyy/geolocation/static/js/main.ecc0b934.js",
+    "service-worker.js": "/Yurovskyy/geolocation/service-worker.js",
+    "index.html": "/Yurovskyy/geolocation/index.html",
+    "main.ecc0b934.js.map": "/Yurovskyy/geolocation/static/js/main.ecc0b934.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ecc0b934.js"
+  ]
+}
