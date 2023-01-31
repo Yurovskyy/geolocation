@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Yurovskyy/geolocation/tree/static/js/main.b0b7aacd.js",
-    "service-worker.js": "/Yurovskyy/geolocation/tree/service-worker.js",
-    "index.html": "/Yurovskyy/geolocation/tree/index.html",
-    "main.b0b7aacd.js.map": "/Yurovskyy/geolocation/tree/static/js/main.b0b7aacd.js.map"
+    "main.js": "/geolocation/static/js/main.0de9a94c.js",
+    "service-worker.js": "/geolocation/service-worker.js",
+    "index.html": "/geolocation/index.html",
+    "main.0de9a94c.js.map": "/geolocation/static/js/main.0de9a94c.js.map"
   },
   "entrypoints": [
-    "static/js/main.b0b7aacd.js"
+    "static/js/main.0de9a94c.js"
   ]
 }
